@@ -9,4 +9,4 @@ Notice: ***.jpg** is a profile picture, and ***.png** are character cards. Keep 
 
 [!] As of writing this, I didnt test out *Prism* or *Azion* yet, 
 
-[review the charcters i made!](https://forms.gle/W6FDxS1ryFLs3MEe7)
+[review the charcters i (kinda) made!](https://forms.gle/W6FDxS1ryFLs3MEe7)
